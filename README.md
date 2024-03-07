@@ -18,7 +18,7 @@ Implementation of Distributed Hash Table (DHT) Protocol in safe Rust. DHT protoc
 
 ### Prerequisites
 
-Rust complier v1.65+.
+Rust compiler v1.65+.
 
 ### Installing
 
